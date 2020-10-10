@@ -4,7 +4,7 @@
 
 ssh-keygen -t rsa -b 4096 -C 1772492146@qq.com
 
-git remote add oringin git @xxxxx ：
+git remote add origin git @xxxxx ：
 
 在本地添加远程仓库地址
 

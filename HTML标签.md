@@ -133,7 +133,7 @@ _xxx 创建一个新窗口并命名为xxx
 </table>
 ```
 
-效果：![image-20200929115333860](C:\Users\17724\Desktop\前端笔记\table标签效果)
+
 
 thead 	头部
 
